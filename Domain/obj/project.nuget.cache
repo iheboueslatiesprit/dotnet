@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDOx4FWRLSnl7A5ZbMz7LQozhXQGhKdzh9qVOE+F0SAeIzFPkOC9iL2fbBJwZ7bq8FDb4vX/FvGIor/jv6Ctvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iheb\\Desktop\\ESPRIT\\4TWIN\\SEM 2\\dot net\\Examen22\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iheb\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
