@@ -25,6 +25,7 @@ namespace Domain
 
         //ay relation feha virtual prefix
         public virtual Equipe Equipe { get; set; }
+        //FK houni sammineh kima nhebou (par convention yekhou esm PK )
         public int EquipeFK { get; set; }
     }
 }
